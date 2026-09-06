@@ -142,3 +142,5 @@ Generate QR Code
 Display QR Ticket
     ↓
 Scan at Metro Gate
+**Demo:**
+https://drive.google.com/file/d/1uv0kKp2lF0_z3yj853SYyBLfBh8RsZ3s/view?usp=drive_link
