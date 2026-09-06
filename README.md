@@ -116,6 +116,10 @@ A QR code is generated for the digital metro ticket and displayed to the passeng
 
 The widget displays the generated QR code and scanning instructions.
 
+### 9.DEMO LINK
+
+https://drive.google.com/file/d/1uv0kKp2lF0_z3yj853SYyBLfBh8RsZ3s/view?usp=drive_link
+
 ---
 
 ## 🔄 Ticket Booking Flow
@@ -145,5 +149,4 @@ Scan at Metro Gate
 
 
 
-**###8.DEMO LINK:**
-https://drive.google.com/file/d/1uv0kKp2lF0_z3yj853SYyBLfBh8RsZ3s/view?usp=drive_link
+
